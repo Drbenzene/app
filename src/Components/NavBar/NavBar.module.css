@@ -1,0 +1,23 @@
+.navBar {
+    display: flex;
+    background-color: black;
+    color: white;
+    justify-content: space-between;
+    align-items: center;
+    height: 15vh;
+    width: 100vw;
+}
+
+.logo {
+    width: 200px;
+}
+.right {
+
+}
+
+.link {
+    padding-right:  30px;
+    text-decoration: none;
+    font-weight: 500;
+    color: white;
+}
